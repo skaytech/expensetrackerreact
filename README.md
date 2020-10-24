@@ -4,12 +4,14 @@ The Expense Tracker is a React App that demonstrates the use of Functional compo
 
 ## Usage
 ```
+#Download Dependencies
 npm install
 
-# Run on http://localhost:3000
+# Run on Localhost - http://localhost:3000
 npm start
 
-# Build for prod
+
+# Build for production
 npm run build
 ```
 
